@@ -166,7 +166,7 @@
 </head>
 <body>
     <header>
-        <h1>Prithvi Raj - DevOps Specialist</h1>
+        <h1>Prithvi Eswar Raj - DevOps Specialist</h1>
         <p>Building Automation & Scalable Solutions for Modern Applications</p>
         <nav>
             <a href="#about">About</a>
